@@ -1,0 +1,38 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+.header{
+	background-color: #d8d8d8;
+	padding: 30px;
+	text-align: center;
+	font-size: 30px;
+}
+.box{
+	display: flex;
+	justify-content: center;
+}
+.content{
+	width: 100%;
+	padding: 30px;
+	background-color: #d8d8d8;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 30px;
+}
+.colum{
+	text-align: center;
+	padding: 10px;
+	width: 30%;
+	margin-right: 10px;
+	background-color: #d8d8d8;
+	margin-top: 10px;
+	height: 400px;
+	font-size: 30px;
+}
+.footer{
+	padding: 30px;
+	background-color: #d8d8d8;
+	margin-top: 10px;
+	text-align: center;
+}
